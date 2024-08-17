@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 - You found me. Great. Go away now. (just kidding, lmao)
 
 <!--
 **spookyahell/spookyahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
