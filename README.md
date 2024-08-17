@@ -1,5 +1,6 @@
-## Hi there 👋 - You found me. Great. Go away now. (just kidding, lmao)
-
+## Hi there 👋 - Can't believe you're stalking me.
+## Are you seriously expecting my help in doing so?
+## Alright, but just this once... ok??
 <!--
 **spookyahell/spookyahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
