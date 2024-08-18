@@ -28,6 +28,41 @@ I've also written most of the code for [pyOneFichierClient](https://github.com/s
 - [ton-dns.com](https://ton-dns.com) / [ton-dns.de](https://ton-dns.de) & more to add to that list
 - [fck.kids](https://github.com/spookyahell/fck.kids) (not yet live)
 - more planned
+
+### Interesting projects around health care
+I was tracking COVID19 injections data by our local government and came accross weird shit.
+<br>Data was ammended or updated or whatever you call it MONTHS later. (That doesn't seem right!)
+
+### Interesting projects around politics
+I believe politcs could be a fuck of a lot simpler if people used modern communication tools such as github.com to communicate their issues.
+<br>Of course there would have to be community managers. But lets say the county and the city you live in both have such a repo and an active issue tracker.
+— You can report issues, they can have templates for the issues. And everyone can live a simpler life. Politicians can get involved if they wanna. Local ones, of course.
+— The president could join in if necessary... but usually it shouldn't be necessary. Even the mayor wouldn't ever be needed if volunteers would do more.
+— A town needs volunteers... it doesn't work any other way. The volunteers need to help keep the place clean (but not just that). Help elderly people. With technology. With whatever they need.
+
+- [berlin-politics](https://github.com/spookyahell/berlin-politics) is here.
+- [de-politics](https://github.com/spookyahell/de-politics) is here.
+
+Advanced technology is already available.
+So... why isn't it being used properly? — 
+The European Union should have their own issues system. — I might launch one for them, an unofficial one.
+<br>Let ALL people be part of the system. Take responsibility. Make a good system, have people use strong authentification.
+<br>Participation only through identification? IDK... Why not?
+<br>Why are people afraid to use their real identity? - If it's government operated, it should be fine.
+<br>As fine as it can possibly be. - You need to be able to have trust in a few things.
+
+In a perfect world you'd have a voting system where users can at least voice their concerns about a new idea publicly for all to read.
+<br>People can review those comments and maybe we need to use A.I. to check if people even understood the comments... and of course A.I. will also make sure it correctly understands the intention of the OP.
+<br>A.I. can be useful and some people have proven to not be smarter than A.I., sadly. .. however, maybe it's best to keep A.I. out of our lives as much as still possible.
+
+Best practice? IDK...
+
+## Need to pace myself
+...with the domain registrations.
+Because of monetary resources.
+
+Feel free to help me out, any help is greatly appreciated.
+
 <!--
 **spookyahell/spookyahell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
