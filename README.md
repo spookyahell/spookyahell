@@ -21,6 +21,10 @@ I infamously own the only youtube-dl repository that was re-instated "as-is"..
 <strong>RIAA can suck it.</strong>
 
 ### That's not all... that's not all.
+Hard to believe... but [WinSpotlightCopy](https://github.com/spookyahell/WinSpotlightCopy) (previously "Win10SpotlightCopy") still works on Windows 11.
+<br>I wrote it 6 years ago, when I was knew to Windows 10.
+<br>I myself haven't used it much recently, only recently started using a computer again, now with Windows 11.
+
 I've also written most of the code for [pyOneFichierClient](https://github.com/spookyahell/pyOneFichierClient).
 <br>That happend "back in the day"... when I was more involved with 1fichier than I am now.
 
