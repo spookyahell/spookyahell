@@ -25,6 +25,10 @@ Hard to believe... but [WinSpotlightCopy](https://github.com/spookyahell/WinSpot
 <br>I wrote it 6 years ago, when I was knew to Windows 10.
 <br>I myself haven't used it much recently, only recently started using a computer again, now with Windows 11.
 
+Speaking of projects that are ancient (6 years old)..
+<br>[cmd-lyrics](https://github.com/spookyahell/cmd-lyrics) is a possession I'm kinda proud of.
+<br>Forget the dedicated <a href="https://minilyrics.com/" target="_blank">MiniLyrics</a> application, this is the real way to open a .lrc file.
+
 I've also written most of the code for [pyOneFichierClient](https://github.com/spookyahell/pyOneFichierClient).
 <br>That happend "back in the day"... when I was more involved with 1fichier than I am now.
 
